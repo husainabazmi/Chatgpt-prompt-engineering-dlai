@@ -11,11 +11,11 @@ A short course covering best practices for prompting large language models (LLMs
 |--------|-------|--------|
 | 1 | Guidelines for Prompting | ✅ Done |
 | 2 | Iterative Prompt Development | ✅ Done |
-| 3 | Summarizing | 🔲 In progress |
-| 4 | Inferring | 🔲 Not started |
-| 5 | Transforming | 🔲 Not started |
-| 6 | Expanding | 🔲 Not started |
-| 7 | Chatbot | 🔲 Not started |
+| 3 | Summarizing | ✅ Done |
+| 4 | Inferring | ✅ Done |
+| 5 | Transforming | ✅ Done |
+| 6 | Expanding | ✅ Done |
+| 7 | Chatbot | ✅ Done |
 
 ## What's in this repo
 - `01-guidelines/` — notebook + notes on prompting principles
